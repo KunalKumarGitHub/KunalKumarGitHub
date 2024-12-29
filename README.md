@@ -21,7 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkumargithub&show_icons=true&locale=en&layout=compact" alt="kunalkumargithub" /></p>
 
-<img src="https://raw.githubusercontent.com/kamleshbaheti/kamleshbaheti/output/snake.svg" alt="Snake animation" />
 
 <!---
 KunalKumarGitHub/KunalKumarGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
